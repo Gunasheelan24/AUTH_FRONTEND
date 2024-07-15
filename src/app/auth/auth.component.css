@@ -1,0 +1,75 @@
+.img-wallpaper {
+  height: 100dvh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.monster {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.login-button-auth {
+    min-width: 420px;
+    background-color: white;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+.login-content {
+    margin-top: 19vh;
+}
+
+.hr-width {
+    width: 19%;
+    border: 1px solid gray;
+}
+
+.input-width-auth {
+    text-align: center;
+    width: 58%;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.input-width-auth::placeholder {
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.input-width {
+    width: 10px;
+}
+
+.sign-in-button {
+    width: 47%;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.invalid-email {
+    position: absolute;
+    top: 2px;
+    font-size: 0.85em;
+}
+
+.invalid-container-email {
+    width: 57%;
+}
+
+.second-input-box {
+    margin-top: 33px;
+}
+
+
+.errorMessageLogin {
+    left: 43%;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 20%;
+}
